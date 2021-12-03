@@ -1,4 +1,4 @@
-//* Nome: Nathália Pinto Fortunato & Jorbe Junior
+/* Nome: Nathália Pinto Fortunato & Jorbe Junior
 Matricula: 0050016724 & 0050016533 */
 
 CREATE DATABASE bancodevmob;
